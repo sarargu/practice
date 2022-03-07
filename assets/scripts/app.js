@@ -1,7 +1,7 @@
 const defaultResult = 0;
 let currentResult = defaultResult;
 let logEntries = [];
-// this is gfdgfk,k
+
 // Gets input from input field
 function getUserNumberInput() {
     return parseInt(userInput.value);
